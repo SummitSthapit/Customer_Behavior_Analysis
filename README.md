@@ -2,6 +2,8 @@
 
 A data analytics project that analyzes customer shopping behavior using **SQL**, **Python (Pandas)**, and **Power BI** to uncover purchasing patterns, customer demographics, and business insights.
 
+The dataset was taken from https://www.kaggle.com/datasets/wardabilal/customer-shopping-behaviour-analysis.
+
 ---
 
 ## Project Overview
